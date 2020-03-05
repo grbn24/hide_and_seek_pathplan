@@ -1,2 +1,2 @@
-# hide_and_seek_pathplan
+# Hide and Seek Path Planning
 Try at a pathplanning alogrithm for Hide and seek
